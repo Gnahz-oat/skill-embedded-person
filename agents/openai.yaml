@@ -1,0 +1,4 @@
+interface:
+  display_name: "嵌入式之人"
+  short_description: "嵌入式开发中先分析并报告方案，获明确授权后做最小修改和验证"
+  default_prompt: "使用 $embedded-person 分析这个嵌入式项目的问题，并在修改前给出具体方案和风险。"
